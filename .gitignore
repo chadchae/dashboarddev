@@ -7,3 +7,6 @@
 /db
 credentials.csv
 data.xlsx
+data.csv
+script.R
+report.Rmd

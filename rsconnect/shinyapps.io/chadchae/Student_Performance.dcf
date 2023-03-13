@@ -1,0 +1,13 @@
+name: Student_Performance
+title: Student_Performance
+username:
+account: chadchae
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8510257
+bundleId: 6949464
+url: https://chadchae.shinyapps.io/Student_Performance/
+when: 1678659876.76356
+lastSyncTime: 1678659876.76357
+asMultiple: FALSE
+asStatic: FALSE
